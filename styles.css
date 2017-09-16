@@ -1,0 +1,61 @@
+form {
+text-align:center;
+}
+
+img {
+height: 20px;
+}
+
+.ui-autocomplete-loading {
+width: 70px;
+}
+
+#grey {
+background-color: #F9F7F7;
+}
+
+.table-nonfluid {
+width: auto !important;
+}
+
+#error {
+color: red;
+text-align: center;
+}
+
+#carousel-example-generic {
+margin: 0 auto;
+}
+
+.center {
+text-align: center;
+}
+
+.green {
+color: #06ad06;
+}
+
+.red {
+color: #FF0000;
+}
+
+.yellow {
+ color: #F4ED1A;
+ text-shadow:0 0 1px  black,0 0 1px  black,0 0 1px  black,0 0 1px  black;
+}
+
+.white {
+color: white;
+text-shadow:0 0 1px  black,0 0 1px  black,0 0 1px  black,0 0 1px  black;
+}  
+
+.bold {
+font-weight: bold;
+}
+
+@media (max-width: 500px) {
+
+  .supplies {
+      display:none;
+  }       
+}
